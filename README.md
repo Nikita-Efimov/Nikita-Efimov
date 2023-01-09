@@ -1,7 +1,7 @@
 - 👋 Hi, i'm Nika
 - 👀 I’m interested in crypto stuff (trading/arbitrage)
 - 💞️ I’m looking to collaborate in crypto
-- 📫 How to reach me @sucxub (tg/inst)
+<!-- - 📫 How to reach me @ (tg/inst) -->
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
